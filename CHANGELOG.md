@@ -4,6 +4,9 @@ Turkish lexicon for MaryTTS
 [Unreleased]
 ------------
 
+[v0.1.1] - 2023-04-12
+---------------------
+
 ### Added
 
 - CI via GitHub Actions
@@ -27,5 +30,6 @@ Turkish lexicon for MaryTTS
 
 Functional parity with MaryTTS v5.2
 
-[Unreleased]: https://github.com/marytts/marytts-lexicon-tr/compare/v0.1.0...HEAD
-[v0.1.0]: https://github.com/marytts/marytts-lexicon-tr/tree/v0.1.0
+[Unreleased]: https://github.com/marytts/marytts-lexicon-tr/tree/master
+[v0.1.1]: https://github.com/marytts/marytts-lexicon-tr/releases/tag/v0.1.1
+[v0.1.0]: https://github.com/marytts/marytts-lexicon-tr/releases/tag/v0.1.0
