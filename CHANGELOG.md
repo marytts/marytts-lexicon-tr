@@ -4,6 +4,10 @@ Turkish lexicon for MaryTTS
 [Unreleased]
 ------------
 
+### Changed
+
+- Upgraded GitHub actions
+
 [v0.1.1] - 2023-04-12
 ---------------------
 
